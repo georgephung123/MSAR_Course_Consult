@@ -1,1 +1,1 @@
-Hii!  The enviroment.yml only covers the web scraping ipynb!
+Hii!  This consult was about taking a pdf, which was about a table of Medical School Admission Requirements from various schools, from the Medical School Admission Requirements. I then took my datatable and did some analysis with it!
