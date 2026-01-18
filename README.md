@@ -1,1 +1,1 @@
-Hii!  This consult was about taking a pdf, which was about a table of Medical School Admission Requirements from various schools, from the Medical School Admission Requirements. I then took my datatable and did some analysis with it!
+This consult was assigned by Jonathan Briganti under the DataBridge Lab at Virginia Tech. This consult was about web scrapping a table from a PDF file and finding statistical significance within the table.
